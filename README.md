@@ -1,2 +1,2 @@
 # web-assignment
-webpage assignment composed of HTML and CSS
+webpage composed of HTML and CSS
