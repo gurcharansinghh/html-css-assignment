@@ -2,4 +2,4 @@
 webpage composed of HTML and CSS
 
 
-![My Image](webpage_preview.jpg)
+![My Image](webpage_preview.JPG)
