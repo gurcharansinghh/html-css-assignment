@@ -1,7 +1,7 @@
-# web-assignment
-webpage composed of HTML and CSS
+# html-css-assignment
+webpage built using HTML and CSS
 
-Preview:-
+Its Preview is as follows:-
 
 
 ![My Image](webpage_preview.JPG)
